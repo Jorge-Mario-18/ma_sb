@@ -34,6 +34,7 @@ significantly impact team success.
   have the strongest correlation with your chosen target variable
 - **Model Performance Visualization**: View actual vs predicted plots, residual analysis, and feature 
   importance rankings to understand model accuracy and identify key drivers of team performance
+- **AI Chatbot**: Ask questions about the data and models to get insights and explanations
 """)
 st.write("Data is based on team and player metrics from the USL 2025 season and La Liga 2024/2025 season")
 
