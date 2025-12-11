@@ -1,5 +1,9 @@
 import streamlit as st
 import pandas as pd
+from PIL import Image
+
+logo = Image.open('ball.jpg')
+st.sidebar.image(logo)
 st.set_page_config(
     page_title="Glossary of Football Attributes",
     page_icon="📘"
