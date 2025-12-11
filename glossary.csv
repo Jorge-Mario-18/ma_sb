@@ -1,0 +1,356 @@
+Metric Name,Short Name,Abbreviation,Metric Type,Category,Sub-Category,Definition
+Average SRI,Average SRI,AvgSRI,player,360,Ball Receipts In Space,Average value of space for all ball receipts
+Average SRI F2,Average SRI F2,AvgSRIF2,player,360,Ball Receipts In Space,Average value of space for all ball receipts in the opposition half of the pitch
+Average SRI F3,Average SRI F3,AvgSRIF3,player,360,Ball Receipts In Space,Average value of space for all ball receipts in the final third of the pitch
+BRIS 10m%,BRIS 10m%,BRIS10%,player,360,Ball Receipts In Space,Percentage of ball receipts that are made in more than 10m of space (subset of 2m & 5m category)
+BRIS 2m%,BRIS 2m%,BRIS2%,player,360,Ball Receipts In Space,Percentage of ball receipts that are made in more than 2m of space
+BRIS 5m%,BRIS 5m%,BRIS5%,player,360,Ball Receipts In Space,Percentage of ball receipts that are made in more than 5m of space (subset of 2m category)
+BRIS F2 10m%,BRIS F2 10m%,BRIS10F2%,player,360,Ball Receipts In Space,Percentage of ball receipts in the opposition half of the pitch that are made in more than 10m of space (subset of 2m & 5m category)
+BRIS F2 2m%,BRIS F2 2m%,BRIS2F2%,player,360,Ball Receipts In Space,Percentage of ball receipts in the opposition half of the pitch that are made in more than 2m of space
+BRIS F2 5m%,BRIS F2 5m%,BRIS5F2%,player,360,Ball Receipts In Space,Percentage of ball receipts in the opposition half of the pitch that are made in more than 5m of space (subset of 2m category)
+BRIS F3 10m%,BRIS F3 10m%,BRIS10F3%,player,360,Ball Receipts In Space,Percentage of ball receipts in the final third of the pitch that are made in more than 10m of space (subset of 2m & 5m category)
+BRIS F3 2m%,BRIS F3 2m%,BRIS2F3%,player,360,Ball Receipts In Space,Percentage of ball receipts in the final third of the pitch that are made in more than 2m of space
+BRIS F3 5m%,BRIS F3 5m%,BRIS5F3%,player,360,Ball Receipts In Space,Percentage of ball receipts in the final third of the pitch that are made in more than 5m of space (subset of 2m category)
+LBP,LBP,LBP,player,360,Line Breaking Passes,Line Breaking Passes attempted in open play
+LBP Completed,LBP Completed,LBPC,player,360,Line Breaking Passes,Line Breaking Passes completed in open play
+LBP Completed %,LBP Completed %,LBPComp%,player,360,Line Breaking Passes,Percentage of Line Breaking Passes that were successful
+LBP Completed F2,LBP Completed F2,LBPCompF2,player,360,Line Breaking Passes,Line Breaking Passes completed in the opposition half of the pitch in open play
+LBP Completed F2%,LBP Completed F2%,LBPCompF2%,player,360,Line Breaking Passes,Percentage of Line Breaking Passes that were successful in the opposition half of the pitch
+LBP Completed F3,LBP Completed F3,LBPCompF3,player,360,Line Breaking Passes,Line Breaking Passes completed in the final third of the pitch in open play
+LBP Completed F3%,LBP Completed F3%,LBPCompF3%,player,360,Line Breaking Passes,Percentage of Line Breaking Passes that were successful in the final third of the pitch
+LBP F2,LBP F2,LBPF2,player,360,Line Breaking Passes,Line Breaking Passes attempted in the opposition half of the pitch in open play
+LBP F3,LBP F3,LBPF3,player,360,Line Breaking Passes,Line Breaking Passes attempted in the final third of the pitch in open play
+LBP OBV,LBP OBV,LBPOBV,player,360,Line Breaking Passes,Pass-OBV from Line Breaking Passes
+LBP OBV F2,LBP OBV F2,LBPOBVF2,player,360,Line Breaking Passes,Pass-OBV from Line Breaking Passes in opposition half
+LBP OBV F3,LBP OBV F3,LBPOBVF3,player,360,Line Breaking Passes,Pass-OBV from Line Breaking Passes in final third
+LBP/Pass%,LBP/Pass%,LBP/P%,player,360,Line Breaking Passes,Percentage of passes that were line breaking
+LBP/Pass F2%,LBP/Pass F2%,LBP/PF2%,player,360,Line Breaking Passes,Percentage of passes in opposition half that were line breaking
+LBP/Pass F3%,LBP/Pass F3%,LBP/PF3%,player,360,Line Breaking Passes,Percentage of passes in final third that were line breaking
+LBP Received,LBP Received,LBPRec,player,360,Line Breaking Passes,Line Breaking passes received in open play
+LBP Received F2,LBP Received F2,LBPRecF2,player,360,Line Breaking Passes,Line Breaking Passes received in the opposition half in open play
+LBP Received F3,LBP Received F3,LBPRecF3,player,360,Line Breaking Passes,Line Breaking Passes received in the final third in open play
+LBP Avg Dist,LBP Avg Dist,AvgLBPS,player,360,Line Breaking Passes Into Space,Average space of pass recipient for all completed Line Breaking Passes
+LBP Avg Dist in F2,LBP Avg Dist in F2,AvgLBPSF2,player,360,Line Breaking Passes Into Space,Average space of pass recipient for all completed Line Breaking Passes in the opposition half of the pitch
+LBP Avg Dist in F3,LBP Avg Dist in F3,AvgLBPSF3,player,360,Line Breaking Passes Into Space,Average space of pass recipient for all completed Line Breaking Passes in the final third of the pitch
+LBP Received 10m,LBP Received 10m,LBPRS10,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 10m of space (subset of 2m & 5m category)
+LBP Received 10m in F2,LBP Received 10m in F2,LBPRS10F2,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 10m of space (subset of 2m & 5m category) in the opposition half of the pitch
+LBP Received 10m in F3,LBP Received 10m in F3,LBPRS10F3,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 10m of space (subset of 2m & 5m category) in the final third of the pitch
+LBP Received 2m,LBP Received 2m,LBPRS2,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 2m of space
+LBP Received 2m in F2,LBP Received 2m in F2,LBPRS2F2,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 2m of space in the opposition half of the pitch
+LBP Received 2m in F3,LBP Received 2m in F3,LBPRS2F3,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 2m of space in the final third of the pitch
+LBP Received 5m,LBP Received 5m,LBPRS5,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 5m of space (subset of 2m category)
+LBP Received 5m in F2,LBP Received 5m in F2,LBPRS5F2,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 5m of space (subset of 2m category) in the opposition half of the pitch
+LBP Received 5m in F3,LBP Received 5m in F3,LBPRS5F3,player,360,Line Breaking Passes Into Space,Received Line Breaking Pass in more than 5m of space (subset of 2m category) in the final third of the pitch
+LBP Received Avg Dist,LBP Received Avg Dist,AvgLBPRS,player,360,Line Breaking Passes Into Space,Average space of pass recipient for all received Line Breaking Passes
+LBP Received Avg Dist in F2,LBP Received Avg Dist in F2,AvgLBPRSF2,player,360,Line Breaking Passes Into Space,Average space of pass recipient for all received Line Breaking Passes in the opposition half of the pitch
+LBP Received Avg Dist in F3,LBP Received Avg Dist in F3,AvgLBPRSF3,player,360,Line Breaking Passes Into Space,Average space of pass recipient for all received Line Breaking Passes in the final third of the pitch
+LBP to Space 10m,LBP to Space 10m,LBPS10,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 10m of space (subset of 2m & 5m category)
+LBP to Space 10m in F2,LBP to Space 10m in F2,LBPS10F2,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 10m of space (subset of 2m & 5m category) in the opposition half of the pitch
+LBP to Space 10m in F3,LBP to Space 10m in F3,LBPS10F3,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 10m of space (subset of 2m & 5m category) in the final third of the pitch
+LBP to Space 2m,LBP to Space 2m,LBPS2,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 2m of space
+LBP to Space 2m in F2,LBP to Space 2m in F2,LBPS2F2,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 2m of space in the opposition half of the pitch
+LBP to Space 2m in F3,LBP to Space 2m in F3,LBPS2F3,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 2m of space in the final third of the pitch
+LBP to Space 5m,LBP to Space 5m,LBPS5,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 5m of space (subset of 2m category)
+LBP to Space 5m in F2,LBP to Space 5m in F2,LBPS5F2,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 5m of space (subset of 2m category) in the opposition half of the pitch
+LBP to Space 5m in F3,LBP to Space 5m in F3,LBPS5F3,player,360,Line Breaking Passes Into Space,Completed Line Breaking Pass received in more than 5m of space (subset of 2m category) in the final third of the pitch
+Age,Age,Age,player,Appearances,Appearances,"The age of the player at the end of this season/selected period. For winter leagues the season end is taken as May 31st, for summer leagues it is taken as December 31st"
+Appearances,Appearances,Ap,player,Appearances,Appearances,The number of matches the player has participated in on-pitch this season (starts and substitute appearances).
+Minutes Played,Minutes,Min,player,Appearances,Appearances,The number of minutes played this season. This value is used to calculate all other stat values as per-90.
+Starting Appearances,Starts,Strt,player,Appearances,Appearances,The number of starts the player has made this season
+Assists,Assists,As,player,Attacking,Key Passes & Assists,Number of assists.
+Key Passes,Key Passes,KP,player,Attacking,Key Passes & Assists,"Passes that create shots for teammates. Can also be seen to be referred to as ""shot assists"" or ""chances created"""
+Open Play Assists,OP Assists,OPAs,player,Attacking,Key Passes & Assists,Number of assists from open play.
+Open Play Key Passes,OP Key Passes,OPKP,player,Attacking,Key Passes & Assists,"Passes that create shots for teammates, just from open play"
+Open Play xG Assisted,OP xG Assisted,OPxGAs,player,Attacking,Key Passes & Assists,xG assisted from open play.
+Set Piece Assists,SP Assists,SPAs,player,Attacking,Key Passes & Assists,Number of assists from set pieces
+Set Piece Key Passes,SP Key Passes,SPKP,player,Attacking,Key Passes & Assists,"Passes that create shots for teammates, just from set pieces"
+Set-Piece xG Assisted,SP xG Assisted,SPxGAs,player,Attacking,Key Passes & Assists,xG assisted from set pieces
+xG Assisted,xG Assisted,xGAs,player,Attacking,Key Passes & Assists,xG assisted. This is calculated from the expected goal value of the assisted shot
+Dispossessed,Dispossessed,Dis,player,Attacking,Offensive Duels,Number of times a player loses the ball by getting tackled.
+Dribble%,Dribble%,Drb%,player,Attacking,Offensive Duels,Percentage of dribbles that were successful
+Dribbles,Dribbles,Drb,player,Attacking,Offensive Duels,An attempt by the player to beat the opponent with the ball at their feet
+Failed Dribbles,Failed Dribbles,fDrb,player,Attacking,Offensive Duels,Number of dribbles attempted that were unsuccessful.
+Fouls Won,Fouls Won,FwlW,player,Attacking,Offensive Duels,How many times a player is fouled.
+Penalty wins,Penalty Wins,PenW,player,Attacking,Offensive Duels,Number of penalties won.
+Successful Dribbles,Successful Dribbles,sDrb,player,Attacking,Offensive Duels,How often a player successfully dribbles past an opponent
+Turnovers,Turnovers,Tov,player,Attacking,Offensive Duels,How often a player loses the ball via a miscontrol or a failed dribble.
+Over/Underperformance,O/U Performance,O/U,player,Attacking,Scoring Contribution,Goals and assists above expectation. The difference between scoring contribution (actual contribution to goals) and xG & xG Assisted (expected contribution to goals)
+Passing Ability,Pass Ability,PA,player,Attacking,Scoring Contribution,Rating value.
+Scoring Contribution,Scoring Contribution,SC,player,Attacking,Scoring Contribution,Non-penalty goals and assists. A combined measure of the direct goal contribution of a player via goalscoring or goal assisting
+Shots & Key Passes,Shots & Key Passes,Sh+KP,player,Attacking,Scoring Contribution,Non-penalty shots and key passes. A combined measure of a player's contribution to shots via shots themselves or the key pass prior to the shot
+xG & xG Assisted,xG & xG Assisted,xG+xGAs,player,Attacking,Scoring Contribution,"Non-penalty xG and xG Assisted. A combined measure of a player's contribution to shots via shots themselves or the key pass prior to the shot, measured in terms of expected goal values"
+Goal Conversion%,Goal Conversion%,GCon,player,Attacking,Shots & Goals,Percentage of non-penalty shots a player takes that are converted into goals.
+Goals & Penalty Goals,All Goals,G+PG,player,Attacking,Shots & Goals,"All goals scored by the player, including penalties."
+Non-Penalty Goals,NP Goals,G,player,Attacking,Shots & Goals,Goals scored (not including penalties).
+Penalty Conversion%,Penalty Conversion%,PG%,player,Attacking,Shots & Goals,Percentage of penalty shots a player takes that are converted into goals.
+Post Shot xG,PSxG,PSxg,player,Attacking,Shots & Goals,Post Shot xG earned from on-target shots.
+Shooting%,Shooting%,Sh%,player,Attacking,Shots & Goals,"The percentage of total shots by a player that are on target (includes goals, saved, and cleared off line)."
+Shots,Shots,Sh,player,Attacking,Shots & Goals,Number of non-penalty shots a player takes.
+Shot Touch%,Shot Touch%,ShT%,player,Attacking,Shots & Goals,The amount of shots a player takes as a proportion of their touches of the ball.
+xG,xG,xG,player,Attacking,Shots & Goals,Non-penalty expected goals produced by the player.
+xG/Shot,xG/Shot,xG/Sh,player,Attacking,Shots & Goals,"A measure of shot quality, this looks at the average non-penalty expected goal value per shot a player takes."
+Red Cards,Red Cards,RC,player,Defending,Cards,How many red cards the player obtains
+Second Yellow Cards,2nd Yellows,YC2,player,Defending,Cards,How many times a player obtains a second yellow card
+Yellow Cards,Yellow Cards,YC,player,Defending,Cards,How many yellow cards the player obtains
+Aggressive Actions,Aggressive Actions,AggA,player,Defending,Defending,"Tackles, pressure events and fouls recorded within 2 seconds of an opposition ball receipt"
+Average Defensive Action Distance,Average DA X,AvgDAX,player,Defending,Defending,"The average distance from the goal line that the player successfully makes a defensive action. The scale is the x-axis of the pitch, measured from 0-100."
+Ball Recoveries,Ball Recoveries,bR,player,Defending,Defending,Number of ball recoveries.
+Blocks/Shot,Blocks/Shot,Bl/Sh,player,Defending,Defending,Blocks made per shot faced.
+Clearances,Clearances,Cl,player,Defending,Defending,Number of clearances made by a player.
+Defensive Action Regains,Defensive Regains,DAR,player,Defending,Defending,Times a player’s team won the ball back within 5 seconds of the player making a defensive action against an opponent.
+Defensive Actions,Defensive Actions,DefA,player,Defending,Defending,"Tackles, pressure events and fouls recorded."
+Interceptions,Interceptions,Int,player,Defending,Defending,Number of interceptions.
+Opposition Half Ball Recoveries,Ball Recov. F2,FHBR,player,Defending,Defending,How many ball recoveries the player made in the opposition (final) half of the pitch
+PAdj Clearances,PAdj Clearances,PAdjCl,player,Defending,Defending,Number of clearances adjusted proportionally to the possession volume of a team
+PAdj Interceptions,PAdj Interceptions,PAdjInt,player,Defending,Defending,Number of interceptions adjusted proportionally to the possession volume of a team
+Aerial Win%,Aerial Win%,AW%,player,Defending,Defensive Duels,Percentage of aerial duels a player enters that they win
+Aerial Wins,Aerial Wins,AW,player,Defending,Defensive Duels,Number of aerial duels a player wins.
+Dribbled Past,Dribbled Past,DP,player,Defending,Defensive Duels,How often a player fails a challenge and is dribbled past.
+Dribbles Successfully Defended%,Dribbles Stopped%,DrbS%,player,Defending,Defensive Duels,"Of the dribbles faced by this player, what % of them were unsuccessful (stopped)."
+Errors,Errors,Err,player,Defending,Defensive Duels,How many errors the player makes per 90. An error is an on the ball mistake that led to a shot.
+Fouls,Fouls,Fwl,player,Defending,Defensive Duels,How many fouls a player commits
+PAdj Tackles,PAdj Tackles,PAdjTk,player,Defending,Defensive Duels,Number of tackles adjusted proportionally to the possession volume of a team
+PAdj Tackles & Interceptions,PAdj Tack&Int,PAdjTk+I,player,Defending,Defensive Duels,Number of tackles and interceptions adjusted proportionally to the possession volume of a team
+Tack/Dribbled Past%,Tack/DP%,Tk/DP%,player,Defending,Defensive Duels,Percentage of time a player makes a tackle when going into a duel vs getting dribbled past.
+Tackles,Tackles,Tk,player,Defending,Defensive Duels,Successful challenges made.
+Tackles & Interceptions,Tack&Int,Tk+I,player,Defending,Defensive Duels,Combination of tackles and interceptions
+Average Pressure Distance,Average Pressure X,AvgPrsX,player,Defending,Pressure,"The average distance from the goal line that the player presses opponents with the ball. The scale here is the x-axis of the pitch, measured from 0-100."
+Counterpressure Regains,Counterpress Regains,CPrsR,player,Defending,Pressure,Times a player’s team won the ball back within 5 seconds of the player counterpressuring an opponent.
+Counterpressures,Counterpressures,CPrs,player,Defending,Pressure,Number of counterpressures. Counterpressures are pressures exerted within 5 seconds of a turnover.
+Counterpressures in Opposing Half,Counterpressures F2,CPrsF2,player,Defending,Pressure,How many counterpressures the player is exerting in the opposition (final) half of the pitch.
+Counterpressures in Opposing Half%,Counterpressures F2%,CPrsF2%,player,Defending,Pressure,"How many counterpressures the player is exerting in the opposition (final) half of the pitch, as a percentage of their total counterpressures."
+PAdj Pressures,PAdj Pressures,PadjPrs,player,Defending,Pressure,Possession adjusted pressures.
+Pressure Regains,Pressure Regains,PrsR,player,Defending,Pressure,Times a player’s team won the ball back within 5 seconds of the player pressuring an opponent.
+Pressures,Pressures,Prs,player,Defending,Pressure,The number of times a player pressures an opposition player.
+Pressures in Opposing Half,Pressures F2,PrsF2,player,Defending,Pressure,How many pressures the player is exerting in the opposition (final) half of the pitch.
+Pressures in Opposing Half%,Pressures F2%,FHPrs%,player,Defending,Pressure,"How many pressures the player is exerting in the opposition (final) half of the pitch, as a percentage of their total pressures."
+Claims - CCAA%,Claims%,CCAA%,player,Goalkeeping,Passing & Other,"Claims or CCAA% (Claimable Collection Attempts over Average), is a measure of how likely the goalkeeper is to attempt to claim a ""claimable"" pass, versus the average goalkeeper attempted claim rate."
+Goalkeeper Aggressive Distance,GK Aggressive Dist.,GKAggD,player,Goalkeeping,Passing & Other,An average value of how far from the goal the goalkeeper is coming forward to perform defensive actions.
+Pass into Danger%,Pass into Danger%,PID%,player,Goalkeeping,Passing & Other,Percentage of passes made where the recipient was deemed to be under pressure or was next engaged with a defensive action
+Pass into Pressure%,Pass into Pressure%,PIPr%,player,Goalkeeping,Passing & Other,Percentage of passes made where the recipient was under pressure
+Positive Outcome,Positive Outcome,PO,player,Goalkeeping,Passing & Other,"A possession that connected through the player and resulted in either a shot, free kick in the attacking half or a corner"
+Positive Outcome%,Positive Outcome%,PO%,player,Goalkeeping,Passing & Other,How frequently is the player involved in sequences that resolve with a positive outcome while on the pitch
+All Shots Faced,All Shots Faced,ShF,player,Goalkeeping,Shot Stopping,Count of all shots faced by the goalkeeper (including off-target shots.)
+Expected Save%,xSv%,xSv%,player,Goalkeeping,Shot Stopping,Given the post-shot xG (modelled from on frame location) of shots faced by the goalkeeper what % would we expect them to save?
+Goals Conceded,Goals Conceded,GC,player,Goalkeeping,Shot Stopping,Count of goals conceded by the goalkeeper (not including penalties or own goals).
+Goals Saved Above Average,GSAA,GSAA,player,Goalkeeping,Shot Stopping,How many goals did the keeper save/concede versus expectation (post-shot xG faced)? This is representative of how many goals the goalkeeper's saves prevented wthin a season.
+Penalties Conceded,Penalties Conceded,pC,player,Goalkeeping,Shot Stopping,Number of penalties faced that resulted in goals.
+Penalties Faced,Penalties Faced,pF,player,Goalkeeping,Shot Stopping,Number of penalties faced.
+Positioning Error,Positioning Error,PErr,player,Goalkeeping,Shot Stopping,"How far from the optimal position for facing a shot the Goalkeeper is (on average). This metric is modelled from a starting point of the average location of goalkeepers from 20 shots from similar locations and the deviation from that average is the distance away from the ""optimal"" location for any given goalkeeper location on a shot."
+PSxG Faced,PSxG Faced,PSxGF,player,Goalkeeping,Shot Stopping,"Total post-shot xG of on-target shots faced by the goalkeeper, as predicted from a trained and calibrated model of only shots on target. Penalties not included."
+Save%,Save%,Sv%,player,Goalkeeping,Shot Stopping,Percentage of on-target shots that were saved by the goalkeeper.
+Shots Faced,Shots Faced,ShFOT,player,Goalkeeping,Shot Stopping,Count of on-target shots faced by the goalkeeper.
+Shots Faced On Target%,Shots Faced OT%,ShFOT%,player,Goalkeeping,Shot Stopping,Percentage of shots faced by the goalkeeper that were on-target.
+Shot Stopping%,Shot Stopping%,GSAA%,player,Goalkeeping,Shot Stopping,"The measure of goals saved above average, as a percentage of shots faced by the goalkeeper."
+xG Faced,xG Faced,xGF,player,Goalkeeping,Shot Stopping,Total xG from all non-penalty shots faced (including off target shots)
+Defensive Action OBV,DA OBV,OBV-DA,player,OBV,OBV,On Ball Value Added (net) from Defensive Actions
+Dribble & Carry OBV,D&C OBV,OBV-DC,player,OBV,OBV,On Ball Value Added (net) from Dribbles and Carries
+Goalkeeper OBV,Goalkeeper OBV,OBV-GK,player,OBV,OBV,On Ball Value Added (net) Goalkeeper
+OBV,OBV,OBV,player,OBV,OBV,On Ball Value Added (net) total (all event types).
+Pass OBV,Pass OBV,OBV-P,player,OBV,OBV,On Ball Value Added (net) from Passes
+Shot OBV,Shot OBV,OBV-S,player,OBV,OBV,On Ball Value Added (net) from Shots
+Crossing%,Crossing%,Cross%,player,Passing,Attacking Passing,Percentage of attempted crosses that are successful and received by a teammate
+Deep Completions,Deep Completions,DCom,player,Passing,Attacking Passing,Successful passes within 20 metres of the opposition goal.
+Open Play Final Third Passes,OP F3 Passes,OPF3P,player,Passing,Attacking Passing,Successful open play final third passes.
+OP Passes Into Box,OP Passes Into Box,Pin,player,Passing,Attacking Passing,Successful passes into the box from outside the box (open play).
+Passes Inside Box,Passes Inside Box,PIB,player,Passing,Attacking Passing,Passes completed inside the box.
+Passes Into Box,PintoB,PintoB,player,Passing,Attacking Passing,Successful passes into box from outside the box
+Passes + Touches In Box,PinTin,PinTin,player,Passing,Attacking Passing,Successful passes into the box from outside the box (open play) and touches inside the box combined
+Set Piece Passes Into Box,SP PintoB,SPPintoB,player,Passing,Attacking Passing,"A pass into the box from a set piece situation (indirect free kick, corner, throw in)"
+Successful Box Cross%,Successful Box Cross%,sBC%,player,Passing,Attacking Passing,What percentage of a player's completed passes into the box are crosses. See Event Specification for details of cross location definition.
+Successful Crosses,Successful Crosses,sC,player,Passing,Attacking Passing,Completed crosses.
+Throughballs,Throughballs,Tb,player,Passing,Attacking Passing,A completed pass splitting the defence for a teammate to run onto.
+Touches In Box,Touches In Box,Tin,player,Passing,Attacking Passing,Successful footed touches inside the box (including shots)
+Carries,Carries,Cy,player,Passing,Ball Progression,A player controls the ball at their feet while moving or standing still.
+Carry%,Carry%,Cy%,player,Passing,Ball Progression,Percentage of a player's carries that were successful.
+Carry Length,Carry Length,CyLen,player,Passing,Ball Progression,Average carry length.
+Deep Progressions,Deep Progressions,DProg,player,Passing,Ball Progression,Passes and dribbles/carries into the opposition final third.
+xGBuildup,xGBuildup,xGB,player,Passing,Ball Progression,A model that attributes the xG value of the final shot to all players involved in the entire possession. The buildup version omits xG and xG Assisted to focus on possession work prior to the end of the chain
+xGChain,xGChain,xGC,player,Passing,Ball Progression,A model that attributes the xG value of the final shot to all players involved in the entire possession.
+Final Third Pass Backward%,F3 Pass Backward%,F3PBwd%,player,Passing,Pass Direction,"Proportion of a player's passes in the final third that are angled backwards. Backwards is defined as the arc of the circle from 5π/6 to 7π/6, of the circle 0:2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+Final Third Pass Forward%,F3 Pass Forward%,F3PFwd%,player,Passing,Pass Direction,"Proportion of a player's passes in the final third that are angled forwards. Forwards is defined as the arc of the circle from 11π/6 to π/6, of the circle 0:2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+Final Third Pass Sideways%,F3 Pass Sideways%,F3PSdw%,player,Passing,Pass Direction,"Proportion of a player's passes in the final third that are angled sideways. Sideways is defined as the arc of the circle from π/6 to 5π/6, and from 7π/6 to 11π/6, of the circle 0:2π,; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+Pass Backward%,Pass Backward%,PBwd%,player,Passing,Pass Direction,"Proportion of a player's passes that are angled backwards. Backwards is defined as the arc of the circle from 5π/6 to 7π/6, of the circle 0:2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+Pass Forward%,Pass Forward%,PFwd%,player,Passing,Pass Direction,"Proportion of a player's passes that are angled forwards. Forwards is defined as the arc of the circle from 11π/6 to π/6, of the circle 0:2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+Pass Sideways%,Pass Sideways%,PSdw%,player,Passing,Pass Direction,"Proportion of a player's passes that are angled sideways. Sideways is defined as the arc of the circle from π/6 to 5π/6, and from 7π/6 to 11π/6, of the circle 0:2π,; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+Average Pass Distance,Average Pass X,AvgPX,player,Passing,Passing,"The average distance from the goal line that the player successfully makes a pass. The scale is the x-axis of the pitch, measured from 0-100."
+Being Pressured Change in Pass%,Pr. Pass% Dif.,PrP%Dif,player,Passing,Passing,How does passing % change when under pressure? This is calculated as Pressured Pass % minus Pass %.
+Left to Right Footedness%,L/R Footedness%,L/RF%,player,Passing,Passing,Proportion of footed passes made by this player with their left foot. Players can be considered left-footed when this value is over 60% (and right-footed at less than 40%).
+Long Ball%,Long Ball%,LB%,player,Passing,Passing,Percentage of attempted long balls that are actually completed.
+Long Balls,Long Balls,LB,player,Passing,Passing,Number of completed long balls
+Open Play Passes,OP Passes,OPPass,player,Passing,Passing,Number of attempted passes in open play.
+Passes Being Pressured%,Passes Pressured%,PPr%,player,Passing,Passing,Proportion of passes that were made while under opponent pressure
+Passing%,Passing%,P%,player,Passing,Passing,Percentage of all passes attempted that were completed.
+Pressured Long Balls,Pr. Long Balls,PrLB,player,Passing,Passing,Number of clearances or long balls attempted while under pressure.
+Pressured Pass%,Pr. Pass%,PrP%,player,Passing,Passing,Proportion of pressured passes that were completed
+Unpressured Long Balls,UPr. Long Balls,UPrLB,player,Passing,Passing,Times a player plays a long ball while not under pressure
+Being Pressured Change in Pass Length,Pr. Pass Length Dif.,PrPLDif,player,Passing,Pass Lengths,Difference in the pass length when under pressure. This is calculated as the pressured pass length minus pass length.
+Pass Length,Pass Length,PL,player,Passing,Pass Lengths,Average pass length.
+Pass Length Ratio,Pass Length Ratio,PLRat,player,Passing,Pass Lengths,Ratio between the completed pass length and pass length.
+Pressured Pass Length,Pr. Pass Length,PrPL,player,Passing,Pass Lengths,Average pass length of passes made under pressure.
+Pressured Pass Length Ratio,Pr. Pass Length%,PrPL%,player,Passing,Pass Lengths,Ratio between the completed pass length and pass length of passes made under pressure
+Successful Pass Length,Succ. Pass Length,CPL,player,Passing,Pass Lengths,Average pass length of completed passes.
+Successful Pressured Pass Length,Succ.Pr. Pass Length,sPrPL,player,Passing,Pass Lengths,Pass length of successful passes made under pressure.
+Red Cards,Red Cards,RC,team,Defensive & Other,Cards,How many red cards the team obtains
+Second Yellow Cards,2nd Yellows,YC2,team,Defensive & Other,Cards,How many times a team obtains a second yellow card
+Yellow Cards,Yellow Cards,YC,team,Defensive & Other,Cards,How many yellow cards the team obtains
+Aggression,Aggression,Agg,team,Defensive & Other,Defensive,"The proportion of an opponent's pass receipts that are tackled, fouled or pressured within 2 seconds."
+Aggressive Actions,Aggressive Actions,AggA,team,Defensive & Other,Defensive,"Tackles, pressure events and fouls a team makes within 2 seconds of an opposition ball receipt."
+Defensive Action Regains,Defensive Regains,DAR,team,Defensive & Other,Defensive,Times a team won the ball back within 5 seconds of a defensive action by one of their players.
+Defensive Distance,Defensive Distance,DD,team,Defensive & Other,Defensive,The average distance from a teams own goal from which it makes defensive actions.
+Passes/Defensive Action,PPDA,PPDA,team,Defensive & Other,Defensive,"How many passes does a team allow the opponent before making a defensive action (tackle, interception, foul). An indicator of pressing intensity this metric is defined in attacking areas ie 40% of the length of the pitch away from a team's own goal and forwards."
+Ball In Play Time,Ball In Play Time,BiP,team,Defensive & Other,Other,Average actual clock time the ball spends in play
+Possession%,Possession%,Pos%,team,Defensive & Other,Other,Standard metric for how much possession a team averages per match.
+Possessions,Possessions,Pos,team,Defensive & Other,Other,Number of possessions.
+Counterpressure Regains,Counterpress Regains,CPrsR,team,Defensive & Other,Pressure,Times a team won the ball back within 5 seconds of a player counterpressuring an opponent.
+Counterpressures,Counterpressures,CPrs,team,Defensive & Other,Pressure,Pressures exerted within 5 seconds of a turnover.
+Counterpressures in Opposing Half,Counterpressures F2,CPrsF2,team,Defensive & Other,Pressure,How many counterpressures are exerted in the opposition (final) half of the pitch.
+Counterpressures in Opposing Half%,Counterpressures F2%,CPrsF2%,team,Defensive & Other,Pressure,"How many counterpressures are exerted in the opposition (final) half of the pitch, as a percentage of their total counterpressures."
+Pressure Regains,Pressure Regains,PrsR,team,Defensive & Other,Pressure,Ball is regained within 5 seconds of a player pressuring an opponent.
+Pressures,Pressures,Prs,team,Defensive & Other,Pressure,The number of times a team pressures the opponent
+Pressures in Opposing Half,Pressures F2,PrsF2,team,Defensive & Other,Pressure,How many pressures are exerted in the opposition (final) half of the pitch.
+Pressures in Opposing Half%,Pressures F2%,FHPrs%,team,Defensive & Other,Pressure,"How many pressures are exerted in the opposition (final) half of the pitch, as a percentage of their total pressures."
+Goal Difference,Goal Difference,GD,team,Goals & xG,Goals & xG,Goals scored minus goals conceded
+Goals,Goals,G,team,Goals & xG,Goals & xG,Goals scored (including penalties) plus opponent own goals.
+Goals Conceded,Goals,G,team,Goals & xG,Goals & xG,Goals conceded (including penalties) plus own goals.
+Non-Penalty Goal Difference,NP Goal Difference,NPGD,team,Goals & xG,Goals & xG,Goals scored minus goals conceded (not including penalties)
+Open Play xG,OP xG,OPxG,team,Goals & xG,Goals & xG,Expected goal value of shots from open play.
+Open Play xG Conceded,OP xG,OPxG,team,Goals & xG,Goals & xG,Expected goal value of shots from open play conceded.
+Opposition Own Goals,Own Goals,OG,team,Goals & xG,Goals & xG,Opposition own goals.
+Own goals,Own Goals,OG,team,Goals & xG,Goals & xG,Own goals.
+Penalty Goals,Penalty Goals,PG,team,Goals & xG,Goals & xG,Penalties scored.
+Penalty Goals Conceded,Penalty Goals,PG,team,Goals & xG,Goals & xG,Penalty goals conceded.
+xG,NP xG,NPxG,team,Goals & xG,Goals & xG,Cumulative expected goal value of all non-penalty shots
+xG Conceded,NP xG,NPxG,team,Goals & xG,Goals & xG,Cumulative expected goal value of all non-penalty shots conceded
+xG Difference,NP xG Difference,NPxGD,team,Goals & xG,Goals & xG,xG minus xG conceded (not including penalties)
+xG Difference Inclusive,xG Difference w/Pen,xGD,team,Goals & xG,Goals & xG,xG minus xG conceded (including penalties)
+xG/Shot,xG/Shot,xG/Sh,team,Goals & xG,Goals & xG,Non-penalty expected goals per shot.
+xG/Shot Conceded,xG/Shot,xG/Sh,team,Goals & xG,Goals & xG,Average expected goal value per shot conceded (no penalties)
+Defensive Action OBV,DA OBV,OBV-DA,team,OBV,OBV,On Ball Value Added (net) from Defensive Actions
+Defensive Action OBV Conceded,DA OBV,OBV-DA,team,OBV,OBV,Opposition On Ball Value Added (net) from Defensive Actions
+Dribble & Carry OBV,D&C OBV,OBV-DC,team,OBV,OBV,On Ball Value Added (net) from Dribbles and Carries
+Dribble & Carry OBV Conceded,D&C OBV,OBV-DC,team,OBV,OBV,Opposition On Ball Value Added (net) from Dribbles and Carries
+Goalkeeper OBV,Goalkeeper OBV,OBV-GK,team,OBV,OBV,On Ball Value Added (net) Goalkeeper
+Goalkeeper OBV Conceded,Goalkeeper OBV,OBV-GK,team,OBV,OBV,Opposition On Ball Value Added (net) Goalkeeper
+OBV,OBV,OBV,team,OBV,OBV,On Ball Value Added (net) total (all event types).
+OBV Conceded,OBV,OBV,team,OBV,OBV,Opposition On Ball Value Added (net) total (all event types).
+Pass OBV,Pass OBV,OBV-P,team,OBV,OBV,On Ball Value Added (net) from Passes
+Pass OBV Conceded,Pass OBV,OBV-P,team,OBV,OBV,Opposition On Ball Value Added (net) from Passes
+Shot OBV,Shot OBV,OBV-S,team,OBV,OBV,On Ball Value Added (net) from Shots
+Shot OBV Conceded,Shot OBV,OBV-S,team,OBV,OBV,Opposition On Ball Value Added (net) from Shots
+Deep Progressions,Deep Progressions,DProg,team,Passing and Ball Progression,Ball Progression,"Passes, dribbles and carries into the opposition final third."
+Directness,Directness,Drct,team,Passing and Ball Progression,Ball Progression,"A ratio of the distance towards goal from the start of a possession that ended in a shot, divided by the total distance travelled in buildup to the shot."
+Dribble%,Dribble%,Drb%,team,Passing and Ball Progression,Ball Progression,Percentage of dribbles that were completed
+Dribbles,Dribbles,Drb,team,Passing and Ball Progression,Ball Progression,Total attempts to beat the opponent with the ball at their feet
+Failed Dribble,Failed Dribbles,fDrb,team,Passing and Ball Progression,Ball Progression,Dribbles attempted that were unsuccessful.
+Opposition Deep Progressions,Deep Progressions,DProg,team,Passing and Ball Progression,Ball Progression,"Passes, dribbles and carries into the opposition final third."
+Opposition Dribble%,Dribble%,Drb%,team,Passing and Ball Progression,Ball Progression,Percentage of opponent dribbles that were completed
+Opposition Dribbles,Dribbles,Drb,team,Passing and Ball Progression,Ball Progression,Total opponent attempts to beat a team with the ball at their feet
+Opposition Failed Dribble,Failed Dribbles,fDrb,team,Passing and Ball Progression,Ball Progression,Number of dribbles attempted by the opposition that were unsuccessful.
+Opposition Successful Dribbles,Successful Dribbles,sDrb,team,Passing and Ball Progression,Ball Progression,Number of dribbles completed by the opposition.
+Pace Towards Goal,Pace To Goal,PTG,team,Passing and Ball Progression,Ball Progression,"The average speed of buildup for possessions that end in shots, from the start of possession to shot (m/s)"
+Successful Dribbles,Successful Dribbles,sDrb,team,Passing and Ball Progression,Ball Progression,Number of dribbles completed by a team.
+Box Cross%,Box Cross%,BC%,team,Passing and Ball Progression,Passing,What percentage of a player's passes into the box are crosses.
+Box Crosses,Box Crosses,BC,team,Passing and Ball Progression,Passing,Number of crosses into the box
+Deep Completions,Deep Completions,DCom,team,Passing and Ball Progression,Passing,Successful passes within 20 metres of the opposition goal.
+Goalkeeper Long Pass%,GK Long Pass%,GKLP%,team,Passing and Ball Progression,Passing,Percentage of goalkeeper long passes that are completed.
+Goalkeeper Pass Length,GK Pass Length,GKPL,team,Passing and Ball Progression,Passing,Average length of pass from a goalkeeper when playing out from the back.
+Open Play Passes,OP Passes,OPPass,team,Passing and Ball Progression,Passing,Number of attempted passes in open play.
+Open Play Passes Conceded,OP Passes,OPPass,team,Passing and Ball Progression,Passing,Number of attempted passes in open play against the selected team.
+Opposition Deep Completions,Deep Completions,DCom,team,Passing and Ball Progression,Passing,Successful passes within 20 metres of your own goal.
+Opposition Passing%,Passing%,P%,team,Passing and Ball Progression,Passing,Opposition's passing completion rate.
+Passes,Passes,P,team,Passing and Ball Progression,Passing,Number of attempted passes
+Passes Conceded,Passes,P,team,Passing and Ball Progression,Passing,Number of attempted passes by the opposition.
+Passes Inside Box,Passes Inside Box,PIB,team,Passing and Ball Progression,Passing,Passes completed inside the box.
+Passes Inside Box Conceded,Passes Inside Box,PIB,team,Passing and Ball Progression,Passing,Opponent passes completed inside the box.
+Passing%,Passing%,P%,team,Passing and Ball Progression,Passing,Passing completion rate.
+Successful Box Cross%,Successful Box Cross%,sBC%,team,Passing and Ball Progression,Passing,What percentage of a player's completed passes into the box are crosses.
+Successful Passes,Successful Passes,sP,team,Passing and Ball Progression,Passing,Number of successful passes.
+Successful Passes Conceded,Successful Passes,sP,team,Passing and Ball Progression,Passing,Number of successful passes by the opposition.
+Sucessful Box Crosses,Successful Box Crosses,sBC,team,Passing and Ball Progression,Passing,Number of successful crosses into the box
+Corners,Corners,Co,team,Set Pieces,Corner,Number of corners.
+Corners Conceded,Corners,Co,team,Set Pieces,Corner,Number of opponent corners conceded.
+Corner xG,Corner xG,CoxG,team,Set Pieces,Corner,Expected goal value of shots created from corners.
+Corner xG Conceded,Corner xG,CoxG,team,Set Pieces,Corner,Expected goal value of opponent shots conceded from corners.
+Goals/Corner,Goals/Corner,G/Co,team,Set Pieces,Corner,Number of goals per corner taken.
+Goals/Corner Conceded,Goals/Corner,G/Co,team,Set Pieces,Corner,Number of opponent goals conceded per corner taken
+Goals from Corners,Corner Goals,CoG,team,Set Pieces,Corner,Goals scored from corners.
+Goals from Corners Conceded,Corner Goals,CoG,team,Set Pieces,Corner,Opponent goals conceded from corners.
+Shots/Corner,Shots/Corner,Sh/Co,team,Set Pieces,Corner,Number of shots per corner.
+Shots/Corner Conceded,Shots/Corner,Sh/Co,team,Set Pieces,Corner,Number of shots conceded per opponent corner.
+Shots from Corners,Corner Shots,CoSh,team,Set Pieces,Corner,Shots taken from corners.
+Shots from Corners Conceded,Corner Shots,CoSh,team,Set Pieces,Corner,Opponent shots conceded from corners.
+xG/Corner,xG/Corner,xG/Co,team,Set Pieces,Corner,Expected goal value of shots created per corner.
+xG/Corner Conceded,xG/Corner,xG/Co,team,Set Pieces,Corner,Expected goal value of opponent shots conceded per corner.
+Direct Free Kicks,DFK,DFK,team,Set Pieces,Direct Free Kick,Number of direct free kick shots & shots from direct free kick situations (ie. quick rebounds)
+Direct Free Kicks Conceded,DFK,DFK,team,Set Pieces,Direct Free Kick,Number of opponent direct free kick shots & shots from direct free kick situations (ie. quick rebounds)
+Direct Free Kick xG,DFK xG,DFKxG,team,Set Pieces,Direct Free Kick,Expected goal value of shots from direct free kick situations (includes quick rebounds).
+Direct Free Kick xG Conceded,DFK xG,DFKxG,team,Set Pieces,Direct Free Kick,Expected goal value of opponent shots from direct free kick situations (includes quick rebounds).
+Goals/Direct Free Kick,Goals/DFK,G/DFK,team,Set Pieces,Direct Free Kick,Goals per direct free kick taken.
+Goals/Direct Free Kick Conceded,Goals/DFK,G/DFK,team,Set Pieces,Direct Free Kick,Opponent goals conceded per direct free kick.
+Goals from Direct Free Kicks,DFK Goals,DFKG,team,Set Pieces,Direct Free Kick,Goals scored from direct free kicks.
+Goals from Direct Free Kicks Conceded,DFK Goals,DFKG,team,Set Pieces,Direct Free Kick,Opponent goals conceded from direct free kicks.
+Shots/Direct Free Kick,Shots/DFK,Sh/DFK,team,Set Pieces,Direct Free Kick,Number of shots per direct free kick.
+Shots/Direct Free Kick Conceded,Shots/DFK,Sh/DFK,team,Set Pieces,Direct Free Kick,Number of opponent shots conceded per direct free kick.
+Shots from Direct Free Kicks,DFK Shots,DFKSh,team,Set Pieces,Direct Free Kick,Shots taken from direct free kicks (includes quick rebounds).
+Shots from Direct Free Kicks Conceded,DFK Shots,DFKSh,team,Set Pieces,Direct Free Kick,Opponent shots conceded from direct free kicks (includes quick rebounds)
+xG/Direct Free Kick,xG/DFK,xG/DFK,team,Set Pieces,Direct Free Kick,Expected goal value of shots created per direct free kick.
+xG/Direct Free Kick Conceded,xG/DFK,xG/DFK,team,Set Pieces,Direct Free Kick,Expected goal value of opponent shots created per direct free kick.
+Goals from Indirect Free kicks,IFK Goals,IFKG,team,Set Pieces,Indirect Free Kick,Goals scored from indirect free kicks.
+Goals from Indirect Free kicks Conceded,IFK Goals,IFKG,team,Set Pieces,Indirect Free Kick,Opponent goals conceded from indirect free kicks.
+Goals/Indirect Free Kick,Goals/IFK,G/IFK,team,Set Pieces,Indirect Free Kick,Number of goals per indirect free kick.
+Goals/Indirect Free Kick Conceded,Goals/IFK,G/IFK,team,Set Pieces,Indirect Free Kick,Number of goals conceded per indirect free kick.
+Indirect Free Kicks,IFK,IFK,team,Set Pieces,Indirect Free Kick,Number of indirect free kicks.
+Indirect Free Kicks Conceded,IFK,IFK,team,Set Pieces,Indirect Free Kick,Number of indirect free kicks conceded.
+Indirect Free Kick xG,IFK xG,IFKxG,team,Set Pieces,Indirect Free Kick,Expected goal value of shots created from indirect free kicks.
+Indirect Free Kick xG Conceded,IFK xG,IFKxG,team,Set Pieces,Indirect Free Kick,Expected goal value of opponent shots created from indirect free kicks.
+Shots from Indirect Free kicks,IFK Shots,IFKSh,team,Set Pieces,Indirect Free Kick,Shots created via indirect free kick situations.
+Shots from Indirect Free kicks Conceded,IFK Shots,IFKSh,team,Set Pieces,Indirect Free Kick,Opponent shots conceded from indirect free kicks.
+Shots/Indirect Free Kick,Shots/IFK,Sh/IFK,team,Set Pieces,Indirect Free Kick,Number of shots per indirect free kick.
+Shots/Indirect Free Kick Conceded,Shots/IFK,Sh/IFK,team,Set Pieces,Indirect Free Kick,Number of shots conceded per indirect free kick.
+xG/Indirect Free Kick,xG/IFK,xG/IFK,team,Set Pieces,Indirect Free Kick,Expected goal value of shots created per indirect free kick.
+xG/Indirect Free Kick Conceded,xG/IFK,xG/IFK,team,Set Pieces,Indirect Free Kick,Expected goal value of opponent shots conceded per indirect free kick.
+Goals/Set Piece,Goals/SP,G/SP,team,Set Pieces,Overview,Goals per set piece
+Goals/Set Piece Conceded,Goals/SP,G/SP,team,Set Pieces,Overview,Opponent goals per set piece conceded
+Set Piece Goals,SP Goals,SPG,team,Set Pieces,Overview,Number of goals from set pieces.
+Set Piece Goals Conceded,SP Goals,SPG,team,Set Pieces,Overview,Number of goals conceded from set pieces.
+Set Pieces,SP,SP,team,Set Pieces,Overview,Number of set pieces per game.
+Set Pieces Conceded,SP,SP,team,Set Pieces,Overview,Number of opponent set pieces per game conceded.
+Set Piece Shots,SP Shots,SPSh,team,Set Pieces,Overview,Shots generated from set piece situations
+Set Piece Shots Conceded,SP Shots,SPSh,team,Set Pieces,Overview,Number of shots conceded from set pieces.
+Set Piece xG,SP xG,SPxG,team,Set Pieces,Overview,Expected goals from set pieces.
+Set Piece xG Conceded,SP xG,SPxG,team,Set Pieces,Overview,Cumulative xG value of shots conceded from set pieces.
+Shots/Set Piece,Shots/SP,Sh/SP,team,Set Pieces,Overview,Number of shots per set piece.
+Shots/Set Piece Conceded,Shots/SP,Sh/SP,team,Set Pieces,Overview,Number of opponent shots conceded per set piece.
+xG/Set Piece,xG/SP,xG/SP,team,Set Pieces,Overview,Expected goal value of shots per set piece taken
+xG/Set Piece Conceded,xG/SP,xG/SP,team,Set Pieces,Overview,Expected goal value of opponent shots conceded per set piece.
+Goals from Throw-ins,Throw-in Goals,TiG,team,Set Pieces,Throw-in,Goals scored from throw-ins.
+Goals from Throw-ins Conceded,Throw-in Goals,TiG,team,Set Pieces,Throw-in,Goals conceded from throw-ins.
+Goals/Throw-in,Goals/Throw-in,G/Ti,team,Set Pieces,Throw-in,Number of goals per Throw-in.
+Goals/Throw-in Conceded,Goals/Throw-in,G/Ti,team,Set Pieces,Throw-in,Number of goals conceded per throw-in.
+Shots from Throw-ins,Throw-in Shots,TiSh,team,Set Pieces,Throw-in,Shots taken from throw-ins.
+Shots from Throw-ins Conceded,Throw-in Shots,TiSh,team,Set Pieces,Throw-in,Shots conceded from throw-ins.
+Shots/Throw-in,Shots/Throw-in,Sh/Ti,team,Set Pieces,Throw-in,Number of shots per throw-in.
+Shots/Throw-in Conceded,Shots/Throw-in,Sh/Ti,team,Set Pieces,Throw-in,Number of shots conceded per throw-in.
+Throw-ins,Throw-ins,Ti,team,Set Pieces,Throw-in,Number of throw-ins.
+Throw-ins Conceded,Throw-ins,Ti,team,Set Pieces,Throw-in,Number of opponent throw-ins conceded.
+Throw-in xG,Throw-in xG,TixG,team,Set Pieces,Throw-in,Expected goal value of shots created from throw-ins.
+Throw-in xG Conceded,Throw-in xG,TixG,team,Set Pieces,Throw-in,Expected goal value of opponent shots conceded from throw-ins.
+xG/Throw-in,xG/Throw-in,xG/Ti,team,Set Pieces,Throw-in,Expected goal value of shots created per throw-in.
+xG/Throw-in Conceded,xG/Throw-in,xG/Ti,team,Set Pieces,Throw-in,Expected goal value of opponent shots conceded per throw-in.
+Clear Shots,Clear Shots,ClSh,team,Shots,Shots,Shots generated when only the opponent's goalkeeper was in between shot-taker and goal. (Within a cone between the shot-taker and the goalposts.)
+Clear Shots Conceded,Clear Shots,ClSh,team,Shots,Shots,Shots generated when only a team's goalkeeper was in between shot-taker and goal.
+Counter Attacking Shots,Counter-attack Shots,CAttSh,team,Shots,Shots,Shots generated within 15 seconds of a possession that originates from a team's own half.
+Counter Attacking Shots Conceded,Counter-attack Shots,CAttSh,team,Shots,Shots,Shots generated within 15 seconds of a possession that originates from opponent's own half.
+High Press Shots,High Press Shots,HPSh,team,Shots,Shots,Shots generated from possessions that were won within 5 seconds of a defensive action (pressure/tackle/interception/blocked pass) in the opposition’s half.
+High Press Shots Conceded,High Press Shots,HPSh,team,Shots,Shots,Shots conceded from possessions that were lost within 5 seconds of a opposition defensive action (pressure/tackle/interception/blocked pass) in the team's half.
+Open Play Shots,OP Shots,OPSh,team,Shots,Shots,Number of shots in open play.
+Open Play Shots Conceded,OP Shots,OPSh,team,Shots,Shots,Number of shots conceded in open play.
+Opposition Shot Distance,Shot Distance,ShD,team,Shots,Shots,Average distance from goal of opponent non-penalty shots.
+Penalties,Penalties,Pen,team,Shots,Shots,Number of penalties won.
+Penalties Conceded,Penalties,Pen,team,Shots,Shots,Number of penalties conceded.
+Shot Distance,Shot Distance,ShD,team,Shots,Shots,Average distance from goal of non-penalty shots.
+Shots,Shots,Sh,team,Shots,Shots,Number of shots.
+Shots Conceded,Shots,Sh,team,Shots,Shots,Non-penalty shots conceded.
+Shots Outside the Box,Shots Outside Box,ShOB,team,Shots,Shots,Shots from outside the box in open play.
+Shots Outside the Box Conceded,Shots Outside Box,ShOB,team,Shots,Shots,Shots conceded from outside the box in open play.
