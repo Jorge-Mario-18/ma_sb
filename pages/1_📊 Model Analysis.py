@@ -39,6 +39,7 @@ trigger = st.button("Select", key="button_1")
 if trigger:
     player_stats_with_target = add_target_variable(player_stats.copy(), team_stats, selected_target)
     st.session_state['player_stats_with_target'] = player_stats_with_target
+    st.session_state['selected_target'] = selected_target  # Store for later use in chatbot context
     st.write(player_stats_with_target)
 
 st.divider()
@@ -429,11 +430,45 @@ if 'model' in st.session_state and 'X' in st.session_state and 'y' in st.session
     else:
         feature_info = "Feature information not available"
     
+    # Add dataset information if available
+    dataset_info = ""
+    if 'player_stats_with_target' in st.session_state:
+        try:
+            df = st.session_state['player_stats_with_target']
+            target_col_name = st.session_state.get('selected_target', 'Unknown')
+            if isinstance(target_col_name, str) and not target_col_name.endswith('_target'):
+                target_col_name = f"{target_col_name}_target"
+            
+            # Check if target column exists in dataframe
+            if target_col_name in df.columns:
+                target_stats = f"""
+  * Mean: {df[target_col_name].mean():.3f}
+  * Median: {df[target_col_name].median():.3f}
+  * Std Dev: {df[target_col_name].std():.3f}
+  * Min: {df[target_col_name].min():.3f}
+  * Max: {df[target_col_name].max():.3f}"""
+            else:
+                target_stats = "  * Target column not found in dataset"
+            
+            dataset_info = f"""
+
+DATASET INFORMATION:
+- Dataset shape: {df.shape[0]} rows × {df.shape[1]} columns
+- Target variable: {target_col_name}
+- Target variable statistics:{target_stats}
+- Number of features used in model: {len(X.columns)}
+- Feature columns: {', '.join(X.columns.tolist()[:20])}{'...' if len(X.columns) > 20 else ''}
+- Sample size (training data): {len(y)} observations
+"""
+        except Exception as e:
+            dataset_info = f"\n\nDATASET INFORMATION: Available but error retrieving details: {str(e)}"
+    
     model_summary = f"""
 Models trained: LassoCV, ElasticNetCV, RidgeCV, GradientBoosting, Random Forest, XGBoost
 Selected model: {model_type}
 R2 Score: {r2_score:.3f}
 {feature_info}
+{dataset_info}
 """
     
     # Add graph context if available
