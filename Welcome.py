@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.header("Player Analysis App")
-logo = Image.open('ball.png')
+logo = Image.open('ball.jpg')
 st.sidebar.image(logo)
 
 # Display image (place your image file in the project root or create an 'images' folder)

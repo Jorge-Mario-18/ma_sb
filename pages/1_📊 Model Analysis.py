@@ -13,8 +13,11 @@ from sklearn.linear_model import RidgeCV
 from sklearn.ensemble import RandomForestRegressor
 from xgboost import XGBRegressor
 from openai import OpenAI
+from PIL import Image
 
 # Set page config - must be first Streamlit command
+logo = Image.open('ball.jpg')
+st.sidebar.image(logo)
 st.set_page_config(
     page_title="ML Model Analysis",
     page_icon="📊"
